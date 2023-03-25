@@ -1,2 +1,5 @@
 #ignorar todos los exe
 *.exe
+
+*
+!*.*
